@@ -1,21 +1,23 @@
 = Is Science compatible with Faith? =
 
-== Creator of the universe ==
+== Kalam Cosmological Argument ==
 * Premise 1
 ** Anything that begins to exist has a cause.
 * Premise 2
 ** The universe begin to exist
 * Premise 3
-** Evengthing exist has a cause
+** The universe has a cause
 
 == Abiogenesis ==
-* 
+* Explains how life began without an external cause.
+* The divine action of God is not needed.
 
 == Problem with abiogenesis ==
-* Natural selection -> Replicatiob system -> natural sacution -> Replication system
+* Natural selection -> Replication system -> natural selection -> Replication system
 
 == Improvability ==
-* Probabilistic resources
+* Probabilistic resources in the universe
+** 10^139
 
 == Evolution is random vs. God ==
 * Contingent Evolution
